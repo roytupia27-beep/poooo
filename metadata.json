@@ -1,0 +1,10 @@
+{
+  "name": "Pukllay Sport - Reserva de Grass Sintético",
+  "description": "Sistema web y móvil para reserva de canchas de grass sintético con geolocalización en Google Maps, pagos parciales (50% o 100%), gestión de sedes por propietarios y arquitectura orientada a objetos (POO).",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
